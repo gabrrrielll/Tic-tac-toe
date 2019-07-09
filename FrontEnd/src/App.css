@@ -1,0 +1,14 @@
+
+.message {
+  border: 2px solid black;
+  position: relative;
+}
+.response {
+  margin-left: 100px;
+  border: 1px solid black;
+}
+.reply{
+  position: absolute;
+  right: 20px;
+  top: 4px;
+}
